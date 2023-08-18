@@ -1,7 +1,7 @@
 
 # Password Generator App
   This repository contains a React Native app that serves as a password generator with customizable options for uppercase letters, lowercase letters, and symbols. The generated passwords can also be easily shared.
-  ![Password Generator App](images/pswdratorApp.jpg)
+  <!--![Password Generator App](images/pswdratorApp.jpg) -->
 
 ## Features
 
